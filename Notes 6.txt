@@ -1,0 +1,15 @@
+Joins:
+Joins data is used for combining columns.
+For joins we need to have atleast one common field
+Unions:
+Union data gives you the effect of combining rows.
+For unions structure of the data should be same
+If we are connected to relational database, you have customer sql query option that will allow you to customize connectivity so that you can connect to subset of data rather than connecting to entire data.
+
+Data interpreter:
+Some additional data cleaning techniques will be implied.
+If you select pdf -> it will give you page picker
+
+Data blending:
+When the data is at different levels of granularity, we may need to do data blending.
+Primary - blue color checkmark Secondary datasources & fields are denoted with orange checkmark
