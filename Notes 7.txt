@@ -1,0 +1,22 @@
+Increment refresh: Will take care of only new data inserts data
+Full refresh: Will take care of updates, deletions etc.
+Just to balance the load and save time & resources.
+
+Dual axis:
+To represent two measures
+
+Blended axis:
+Multiple axis
+
+Heatmaps:
+Significance of heat map is comparitive analysis
+
+Treemap:
+Comparitive analysis b/w members
+
+Gantt Charts:
+Gantt is used for project management activities
+Take housing as an example
+Dates are rolled up at year level.
+Whenever we use data granularity immediately marktype gantt type is assigned
+Sequence is very important aspect for gantt chart
