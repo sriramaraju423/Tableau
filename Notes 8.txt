@@ -1,0 +1,38 @@
+Reference line: Line which acts as point of reference
+Aspects to keep in mind:
+Table scoped line - Entire table
+Pane scoped line - per pane
+Cell scoped line - per cell
+Aggregating options:
+Constant
+Sum
+min
+max
+average
+median
+Total - Depends on the above aspect selected
+Labelling options:
+None
+Value
+Computation
+Customise
+Tip: No continous axis no reference line
+
+As part of reference line we have reference band, reference distribution
+
+Bullet graph:
+Helps to define models inregards goal to reach etc. Coffee chain as an example
+A bullet graph is useful for comparing the performance of a primary measure to one or more other measures.
+
+
+Tableau for analytics:
+Scatter plot:
+Default confidence interval is 95% and we can't change.
+Show trend lines will give you the linear regression line
+Describe trend line will give you all the stats that are related to model
+Transformations is not possible in tableau
+
+Forecasting:
+simple exponential.
+Mandatory: Date field & 
+If we have a negative value we cannot use multiplicative model for exponential smoothing technique
