@@ -1,0 +1,11 @@
+Histogram:
+Frequency distribution graph
+Various aspects can be used to play around with histogram in tableau.
+Calculated field - Using which we can customized the bins
+Boxplot:
+To show distribution of data
+How to disaggregate the data? Via analysis option on menu bar.
+It is also called 5 point summary plot
+
+Parameters:
+Parameters are dynamic values which can replace constant values
