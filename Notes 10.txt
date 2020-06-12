@@ -1,0 +1,4 @@
+Map:
+Unique with latitude and longitude
+Filler: Can discuss only one measure
+Symbol map: We can discuss two measures
