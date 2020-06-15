@@ -1,0 +1,17 @@
+Custom geo coding:
+Tableau repostiory will store your data in 'My tableau repostiory' on your local machine which get installed when you install tableau. And it is local to your repostiory.
+While sharing data we always need to share using twbx.
+
+Creating teritories using 'Map options'.
+
+Polygon map:
+Every data point should have latitude and longitude. And a point should be given an id. Point order
+Then we need to provide sequence in which the polygon should be drawn
+
+
+WMS:
+Web map service
+This option is used for cutomizing maps.
+
+Background images:
+We need to create measures using calculater field and then link to these measures.
