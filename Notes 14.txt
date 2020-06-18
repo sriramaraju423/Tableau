@@ -1,0 +1,16 @@
+Calculation fields:
+
+Dimension data will be granualized.
+
+LOD(Level of detail):
+Three types of LOD
+Fixed LOD: Specified dimension without reference to other dimension
+1.Table scoped fixed LOD
+2.Dimension scoped LOD
+Include LOD
+View level + specified dimension in the formula
+So the bottom line is we can build chart at very granular level keeping high level sheet
+Exclude LOD
+View level - Specified dimension
+
+R can only integrate with using calculated fields.
